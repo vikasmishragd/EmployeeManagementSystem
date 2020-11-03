@@ -1,0 +1,8 @@
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\bin\Release\netstandard2.0\Employee.Core.deps.json
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\bin\Release\netstandard2.0\Employee.Core.dll
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\bin\Release\netstandard2.0\Employee.Core.pdb
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\obj\Release\netstandard2.0\Employee.Core.AssemblyInfoInputs.cache
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\obj\Release\netstandard2.0\Employee.Core.AssemblyInfo.cs
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\obj\Release\netstandard2.0\Employee.Core.csproj.CoreCompileInputs.cache
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\obj\Release\netstandard2.0\Employee.Core.dll
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\Employee.Core\obj\Release\netstandard2.0\Employee.Core.pdb

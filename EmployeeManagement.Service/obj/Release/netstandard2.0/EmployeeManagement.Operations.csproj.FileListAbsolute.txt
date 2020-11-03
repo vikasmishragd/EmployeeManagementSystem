@@ -1,0 +1,12 @@
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\bin\Release\netstandard2.0\EmployeeManagement.Operations.deps.json
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\bin\Release\netstandard2.0\EmployeeManagement.Operations.dll
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\bin\Release\netstandard2.0\EmployeeManagement.Operations.pdb
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\bin\Release\netstandard2.0\Employee.Core.dll
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\bin\Release\netstandard2.0\Employee.Core.pdb
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.csprojAssemblyReference.cache
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.AssemblyInfoInputs.cache
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.AssemblyInfo.cs
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.csproj.CoreCompileInputs.cache
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.csproj.CopyComplete
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.dll
+C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagement.Service\obj\Release\netstandard2.0\EmployeeManagement.Operations.pdb

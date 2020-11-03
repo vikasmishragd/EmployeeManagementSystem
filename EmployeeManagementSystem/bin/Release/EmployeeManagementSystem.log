@@ -1,0 +1,14 @@
+
+13:31:57: -----------------------------------------------------------------------------
+13:31:57: Microsoft Windows 10 Enterprise
+13:31:57:  (9200)
+
+13:31:57: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Release\EmployeeManagementSystem.exe (Process Id: 30204, Thread Id: 1)
+13:31:57: Version 1.0.0.0 Build 0
+13:31:57: User language: English (United States), System language: en-US
+13:31:57: Report Level 5
+13:31:57: Username: VMishra, Workstation: BLR-LT-101247
+13:31:57: Sunday, November 1, 2020
+13:31:57: -----------------------------------------------------------------------------
+13:31:59 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+13:32:00 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 

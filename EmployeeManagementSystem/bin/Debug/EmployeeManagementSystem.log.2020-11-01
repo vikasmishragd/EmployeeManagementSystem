@@ -1,0 +1,304 @@
+
+07:04:22: -----------------------------------------------------------------------------
+07:04:22: Microsoft Windows 10 Enterprise
+07:04:22:  (9200)
+
+07:04:22: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 39556, Thread Id: 1)
+07:04:22: Version 1.0.0.0 Build 0
+07:04:22: User language: English (United States), System language: en-US
+07:04:22: Report Level 5
+07:04:22: Username: VMishra, Workstation: BLR-LT-101247
+07:04:22: Sunday, November 1, 2020
+07:04:22: -----------------------------------------------------------------------------
+07:04:41 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+07:12:47: -----------------------------------------------------------------------------
+07:12:47: Microsoft Windows 10 Enterprise
+07:12:47:  (9200)
+
+07:12:47: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 4796, Thread Id: 1)
+07:12:47: Version 1.0.0.0 Build 0
+07:12:47: User language: English (United States), System language: en-US
+07:12:47: Report Level 5
+07:12:47: Username: VMishra, Workstation: BLR-LT-101247
+07:12:47: Sunday, November 1, 2020
+07:12:47: -----------------------------------------------------------------------------
+07:13:04 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+07:13:13 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+07:13:27 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+13:23:42: -----------------------------------------------------------------------------
+13:23:42: Microsoft Windows 10 Enterprise
+13:23:42:  (9200)
+
+13:23:42: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 13512, Thread Id: 1)
+13:23:42: Version 1.0.0.0 Build 0
+13:23:42: User language: English (United States), System language: en-US
+13:23:42: Report Level 5
+13:23:42: Username: VMishra, Workstation: BLR-LT-101247
+13:23:42: Sunday, November 1, 2020
+13:23:42: -----------------------------------------------------------------------------
+13:23:55 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+13:32:13: -----------------------------------------------------------------------------
+13:32:13: Microsoft Windows 10 Enterprise
+13:32:13:  (9200)
+
+13:32:13: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 34236, Thread Id: 1)
+13:32:13: Version 1.0.0.0 Build 0
+13:32:13: User language: English (United States), System language: en-US
+13:32:13: Report Level 5
+13:32:13: Username: VMishra, Workstation: BLR-LT-101247
+13:32:13: Sunday, November 1, 2020
+13:32:13: -----------------------------------------------------------------------------
+13:32:28 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+13:32:40 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+17:57:37 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:03:52: -----------------------------------------------------------------------------
+18:03:52: Microsoft Windows 10 Enterprise
+18:03:52:  (9200)
+
+18:03:52: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 20592, Thread Id: 1)
+18:03:52: Version 1.0.0.0 Build 0
+18:03:52: User language: English (United States), System language: en-US
+18:03:52: Report Level 5
+18:03:52: Username: VMishra, Workstation: BLR-LT-101247
+18:03:52: Sunday, November 1, 2020
+18:03:52: -----------------------------------------------------------------------------
+18:03:58 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+18:04:11 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:06:05: -----------------------------------------------------------------------------
+18:06:05: Microsoft Windows 10 Enterprise
+18:06:05:  (9200)
+
+18:06:05: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 33336, Thread Id: 1)
+18:06:05: Version 1.0.0.0 Build 0
+18:06:05: User language: English (United States), System language: en-US
+18:06:05: Report Level 5
+18:06:05: Username: VMishra, Workstation: BLR-LT-101247
+18:06:05: Sunday, November 1, 2020
+18:06:05: -----------------------------------------------------------------------------
+18:06:09 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:06:33: -----------------------------------------------------------------------------
+18:06:33: Microsoft Windows 10 Enterprise
+18:06:33:  (9200)
+
+18:06:33: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 16952, Thread Id: 1)
+18:06:33: Version 1.0.0.0 Build 0
+18:06:33: User language: English (United States), System language: en-US
+18:06:33: Report Level 5
+18:06:33: Username: VMishra, Workstation: BLR-LT-101247
+18:06:33: Sunday, November 1, 2020
+18:06:33: -----------------------------------------------------------------------------
+18:07:11 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:08:12: -----------------------------------------------------------------------------
+18:08:12: Microsoft Windows 10 Enterprise
+18:08:12:  (9200)
+
+18:08:12: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 21664, Thread Id: 1)
+18:08:12: Version 1.0.0.0 Build 0
+18:08:12: User language: English (United States), System language: en-US
+18:08:12: Report Level 5
+18:08:12: Username: VMishra, Workstation: BLR-LT-101247
+18:08:12: Sunday, November 1, 2020
+18:08:12: -----------------------------------------------------------------------------
+18:08:16 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:08:39: -----------------------------------------------------------------------------
+18:08:39: Microsoft Windows 10 Enterprise
+18:08:39:  (9200)
+
+18:08:39: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 940, Thread Id: 1)
+18:08:39: Version 1.0.0.0 Build 0
+18:08:39: User language: English (United States), System language: en-US
+18:08:39: Report Level 5
+18:08:39: Username: VMishra, Workstation: BLR-LT-101247
+18:08:39: Sunday, November 1, 2020
+18:08:39: -----------------------------------------------------------------------------
+18:08:44 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:09:47: -----------------------------------------------------------------------------
+18:09:47: Microsoft Windows 10 Enterprise
+18:09:47:  (9200)
+
+18:09:47: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 19012, Thread Id: 1)
+18:09:47: Version 1.0.0.0 Build 0
+18:09:47: User language: English (United States), System language: en-US
+18:09:47: Report Level 5
+18:09:47: Username: VMishra, Workstation: BLR-LT-101247
+18:09:47: Sunday, November 1, 2020
+18:09:47: -----------------------------------------------------------------------------
+18:09:58 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:39:19: -----------------------------------------------------------------------------
+18:39:19: Microsoft Windows 10 Enterprise
+18:39:19:  (9200)
+
+18:39:19: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 18720, Thread Id: 1)
+18:39:19: Version 1.0.0.0 Build 0
+18:39:19: User language: English (United States), System language: en-US
+18:39:19: Report Level 5
+18:39:19: Username: VMishra, Workstation: BLR-LT-101247
+18:39:19: Sunday, November 1, 2020
+18:39:19: -----------------------------------------------------------------------------
+18:39:28 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:47:25: -----------------------------------------------------------------------------
+18:47:25: Microsoft Windows 10 Enterprise
+18:47:25:  (9200)
+
+18:47:25: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 4928, Thread Id: 1)
+18:47:25: Version 1.0.0.0 Build 0
+18:47:25: User language: English (United States), System language: en-US
+18:47:25: Report Level 5
+18:47:25: Username: VMishra, Workstation: BLR-LT-101247
+18:47:25: Sunday, November 1, 2020
+18:47:25: -----------------------------------------------------------------------------
+18:47:37 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+18:48:58: -----------------------------------------------------------------------------
+18:48:58: Microsoft Windows 10 Enterprise
+18:48:58:  (9200)
+
+18:48:58: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 28340, Thread Id: 1)
+18:48:58: Version 1.0.0.0 Build 0
+18:48:58: User language: English (United States), System language: en-US
+18:48:58: Report Level 5
+18:48:58: Username: VMishra, Workstation: BLR-LT-101247
+18:48:58: Sunday, November 1, 2020
+18:48:58: -----------------------------------------------------------------------------
+18:49:08 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+19:06:18: -----------------------------------------------------------------------------
+19:06:18: Microsoft Windows 10 Enterprise
+19:06:18:  (9200)
+
+19:06:18: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 12224, Thread Id: 1)
+19:06:18: Version 1.0.0.0 Build 0
+19:06:18: User language: English (United States), System language: en-US
+19:06:18: Report Level 5
+19:06:18: Username: VMishra, Workstation: BLR-LT-101247
+19:06:18: Sunday, November 1, 2020
+19:06:18: -----------------------------------------------------------------------------
+19:06:23 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:01:48: -----------------------------------------------------------------------------
+22:01:48: Microsoft Windows 10 Enterprise
+22:01:48:  (9200)
+
+22:01:48: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 40956, Thread Id: 1)
+22:01:48: Version 1.0.0.0 Build 0
+22:01:48: User language: English (United States), System language: en-US
+22:01:48: Report Level 5
+22:01:48: Username: VMishra, Workstation: BLR-LT-101247
+22:01:48: Sunday, November 1, 2020
+22:01:48: -----------------------------------------------------------------------------
+22:01:55 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:04:19: -----------------------------------------------------------------------------
+22:04:19: Microsoft Windows 10 Enterprise
+22:04:19:  (9200)
+
+22:04:19: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 34164, Thread Id: 1)
+22:04:19: Version 1.0.0.0 Build 0
+22:04:19: User language: English (United States), System language: en-US
+22:04:19: Report Level 5
+22:04:19: Username: VMishra, Workstation: BLR-LT-101247
+22:04:19: Sunday, November 1, 2020
+22:04:19: -----------------------------------------------------------------------------
+22:05:16 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:06:12: -----------------------------------------------------------------------------
+22:06:12: Microsoft Windows 10 Enterprise
+22:06:12:  (9200)
+
+22:06:12: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 27412, Thread Id: 1)
+22:06:12: Version 1.0.0.0 Build 0
+22:06:12: User language: English (United States), System language: en-US
+22:06:12: Report Level 5
+22:06:12: Username: VMishra, Workstation: BLR-LT-101247
+22:06:12: Sunday, November 1, 2020
+22:06:12: -----------------------------------------------------------------------------
+22:06:17 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:06:49: -----------------------------------------------------------------------------
+22:06:49: Microsoft Windows 10 Enterprise
+22:06:49:  (9200)
+
+22:06:49: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 6952, Thread Id: 1)
+22:06:49: Version 1.0.0.0 Build 0
+22:06:49: User language: English (United States), System language: en-US
+22:06:49: Report Level 5
+22:06:49: Username: VMishra, Workstation: BLR-LT-101247
+22:06:49: Sunday, November 1, 2020
+22:06:49: -----------------------------------------------------------------------------
+22:06:55 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:07:45: -----------------------------------------------------------------------------
+22:07:45: Microsoft Windows 10 Enterprise
+22:07:45:  (9200)
+
+22:07:45: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 30820, Thread Id: 1)
+22:07:45: Version 1.0.0.0 Build 0
+22:07:45: User language: English (United States), System language: en-US
+22:07:45: Report Level 5
+22:07:45: Username: VMishra, Workstation: BLR-LT-101247
+22:07:45: Sunday, November 1, 2020
+22:07:45: -----------------------------------------------------------------------------
+22:07:51 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:21:51: -----------------------------------------------------------------------------
+22:21:51: Microsoft Windows 10 Enterprise
+22:21:51:  (9200)
+
+22:21:51: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 29164, Thread Id: 1)
+22:21:51: Version 1.0.0.0 Build 0
+22:21:51: User language: English (United States), System language: en-US
+22:21:51: Report Level 5
+22:21:51: Username: VMishra, Workstation: BLR-LT-101247
+22:21:51: Sunday, November 1, 2020
+22:21:51: -----------------------------------------------------------------------------
+22:21:57 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:22:16: -----------------------------------------------------------------------------
+22:22:16: Microsoft Windows 10 Enterprise
+22:22:16:  (9200)
+
+22:22:16: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 9404, Thread Id: 1)
+22:22:16: Version 1.0.0.0 Build 0
+22:22:16: User language: English (United States), System language: en-US
+22:22:16: Report Level 5
+22:22:16: Username: VMishra, Workstation: BLR-LT-101247
+22:22:16: Sunday, November 1, 2020
+22:22:16: -----------------------------------------------------------------------------
+22:22:20 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:44:35: -----------------------------------------------------------------------------
+22:44:35: Microsoft Windows 10 Enterprise
+22:44:35:  (9200)
+
+22:44:35: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 34220, Thread Id: 1)
+22:44:35: Version 1.0.0.0 Build 0
+22:44:35: User language: English (United States), System language: en-US
+22:44:35: Report Level 5
+22:44:35: Username: VMishra, Workstation: BLR-LT-101247
+22:44:35: Sunday, November 1, 2020
+22:44:35: -----------------------------------------------------------------------------
+22:44:39 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
+
+22:48:24: -----------------------------------------------------------------------------
+22:48:24: Microsoft Windows 10 Enterprise
+22:48:24:  (9200)
+
+22:48:24: C:\Users\vmishra\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe (Process Id: 41728, Thread Id: 1)
+22:48:24: Version 1.0.0.0 Build 0
+22:48:24: User language: English (United States), System language: en-US
+22:48:24: Report Level 5
+22:48:24: Username: VMishra, Workstation: BLR-LT-101247
+22:48:24: Sunday, November 1, 2020
+22:48:24: -----------------------------------------------------------------------------
+22:48:31 INFO: EmployeeManagementSystem.CommandInvoker+<InvokeAsync>d__4.MoveNext - Invoking command - SearchCommand 
